@@ -1,5 +1,6 @@
 package project3.mountain;
 
+
 /** Outputs various info about a mountain range
  *  using the given data, as well as a visual representation.
  *
@@ -256,3 +257,4 @@ public class MountainPass {
         return c;
     }
 }
+
